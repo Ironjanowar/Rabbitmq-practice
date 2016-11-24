@@ -1,1 +1,1 @@
-Examples of rabbitmq using [[https://github.com/squaremo/amqp.node][ampq.node]] API
+Examples of rabbitmq using [[https://github.com/squaremo/amqp.node][ampq.node]] and elixir (not together)
